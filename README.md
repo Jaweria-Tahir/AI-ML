@@ -6,8 +6,7 @@ This repository contains my daily learning tasks, notes, implementations, and pr
 
 ## 📚 Topics Covered
 
-### Machine Learning Concepts
-During the internship, I learned and explored the following core Machine Learning concepts:
+### Machine Learning Concepts=
 
 - Linear Algebra Fundamentals
 - Introduction to Machine Learning
@@ -20,7 +19,7 @@ During the internship, I learned and explored the following core Machine Learnin
 - Gradient Descent
 - Model Training and Prediction
 
-### Practical Implementation Skills
+### Implementation Skills
 From an implementation perspective, I gained hands-on experience with:
 
 - Data Preprocessing
@@ -45,21 +44,3 @@ From an implementation perspective, I gained hands-on experience with:
 
 ---
 
-## 🛠️ Tech Stack
-
-- Python
-- NumPy / Pandas
-- Matplotlib / Seaborn
-- Scikit-learn
-
----
-
-## 📈 Progress
-
-This repository is updated regularly as I continue learning and building throughout the internship.
-
----
-
-## 📬 Contact
-
-Feel free to reach out if you have any questions or suggestions regarding this repository.
