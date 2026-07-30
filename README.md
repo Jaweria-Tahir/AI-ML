@@ -4,7 +4,7 @@ This repository contains my daily learning tasks, notes, implementations, and pr
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
 ### Machine Learning Concepts=
 
@@ -37,7 +37,7 @@ From an implementation perspective, I gained hands-on experience with:
 
 ---
 
-## 🚀 Project Built
+## Project Built
 
 ### VisionVolt
 **VisionVolt** is a Machine Learning project developed during my internship to apply the concepts and techniques learned throughout the training process.
