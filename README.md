@@ -1,6 +1,6 @@
 # Machine Learning Internship
 
-This repository contains my daily learning tasks, notes, implementations, and projects completed during my Machine Learning Internship. It serves as a record of my learning journey, documenting the concepts I studied, the practical skills I developed, and the projects I built throughout the internship.
+This repository contains my notes, implementations, and projects completed during my Machine Learning journey. It serves as a record of my learning journey, documenting the concepts I studied, the practical skills I developed, and the projects I built throughout the internship.
 
 ---
 
@@ -40,7 +40,7 @@ From an implementation perspective, I gained hands-on experience with:
 ## Project Built
 
 ### VisionVolt
-**VisionVolt** is a Machine Learning project developed during my internship to apply the concepts and techniques learned throughout the training process.
+**VisionVolt** is a Machine Learning project developed  to apply the concepts and techniques learned during pursuing linear regression model.
 
 ---
 
