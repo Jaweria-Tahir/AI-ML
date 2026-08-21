@@ -1,4 +1,4 @@
-# Machine Learning Internship
+# Machine Learning 
 
 This repository contains my notes, implementations, and projects completed during my Machine Learning journey. It serves as a record of my learning journey, documenting the concepts I studied, the practical skills I developed, and the projects I built throughout the internship.
 
